@@ -20,7 +20,7 @@ This project was built using the following technologies:
 To set up the project, clone the repository, navigate to the project directory, and install project dependencies:
 
 ```bash
-git clone https://github.com/your-username/mortgage-options-calculator.git
+git clone https://github.com/sreenathkspanikker/mortgage-options-calculator.git
 cd mortgage-options-calculator
 ```
 
@@ -49,8 +49,8 @@ npm test
 
 ### Author
 ```
-    Name: Sreenath KS
-    Email: sreenathmpt@gmail.com
+Name: Sreenath KS
+Email: sreenathmpt@gmail.com
 ```
 
 ### Customize configuration
